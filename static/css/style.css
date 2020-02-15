@@ -22,6 +22,7 @@ display:block;
 html, body {background: #d2d2d2; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
+.bold {font-weight: bold;}
 
 p {
 	font-size: 1em;
